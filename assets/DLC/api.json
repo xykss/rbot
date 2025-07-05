@@ -1,7 +1,0 @@
-{
-    "config": {
-        "enabled": fale,
-        "port": 1337,
-        "ip": "UR IP HERE"
-    }
-}
