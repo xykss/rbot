@@ -1,0 +1,10 @@
+End Session .......... logout
+Clean Terminal ....... <<$clear>>
+Attack Commands ...... attack
+View Info ............ info
+Change CNC ........... banner
+Resolve IP ........... ip
+Disable Infections ... .off
+Enable Infections .... .on
+View Ongoing Attacks . ongoing
+

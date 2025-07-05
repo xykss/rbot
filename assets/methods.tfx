@@ -1,0 +1,8 @@
+. TCP  [IP] [PORT] [TIME]
+. UDP  [IP] [PORT] [TIME]
+. HEX  [IP] [PORT] [TIME]
+. RHEX [IP] [PORT] [TIME]
+. HTTP [URL] [PORT] [TIME]
+
+Example: . hex host port $time
+
