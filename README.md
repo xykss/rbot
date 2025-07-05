@@ -1,33 +1,33 @@
-# RBOT C2
+# ⚙️ RBOT C2 — Free Open Source Control & Command
 
-If you have proof that this is a backdoor, post it in an issue or fork the repo. If not, don’t waste our time. - switch
-2328 Lines of code and counting
+Some thought I was joking. Thought it was just for clicks.  
+Well, here we are. **#RBOTC2**
 
-Non-profit C2 for anyone trying to build from scratch.
-It’s free — use it. Don’t whine because others are too.
-Why pay for what’s free? Makes no sense.
-Don’t be that guy :)
+---
 
-## Setup
+If you *really* believe this is a backdoor, prove it.  
+Open an issue, fork the code, or analyze it yourself.  
+Otherwise… move along.  
+— Respectfully, **switch**
 
-Setup Video - https://www.youtube.com/xxxxx
+---
 
-- first step - mysql
+✅ 2328+ lines of code and counting  
+💸 Non-profit — for those building from scratch  
+🆓 Free — use it however you want  
+🧠 Don’t whine because someone else got here first  
+🤡 Why pay for something that’s *free*?
 
-  *need to setup mysql?* Go Here: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/
-  
-  > You may need to allow localhost to connect if you do not allow remote connections here is a command that should allow you to whitelist yourself 
-  > 
-  > `$ mysql -u USERNAME -pSECRET_PASSWORD mysql -e "grant ALL on *.* to USERNAME@'localhost' IDENTIFIED by 'SECRET_PASSWORD';"`
+**Don’t be that guy.**
 
-  > If you have too many file descriptors open change to however much you need
-  > 
-  > `$ ulimit -n 999999`
+---
 
-  `$ mysql -u USERNAME -p SECRET_PASSWORD rbot`
-  *that's all there is too it folks*
+## 🚀 Setup
 
-- second step - customize!
-  go ahead you're already good to go!
+🎥 Setup Video: https://www.youtube.com/xxxxx
 
-*original made in a week flat*
+### 1️⃣ First step — MySQL  
+Don’t have MySQL installed?  
+➡️ https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/
+
+If you have issues with local access:
