@@ -7,7 +7,7 @@ apt install mariadb-server git -y
 
 mysql_secure_installation
 
-git clone 
+git clone https://github.com/xykss/rbot.git
 
 cd rbot
 
