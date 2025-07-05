@@ -4,5 +4,5 @@
         "alias": ["testing", "123"],
         "permission": ["admin"],
         "description": "test command"
-    },
+    }
 ]
