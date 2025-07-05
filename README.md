@@ -1,7 +1,6 @@
 # RBOT C2
 
-If you think this is a backdoor please submit the proof as an issue or fork to this repository otherwise fuck off, sincerely bleach.
-
+If you have proof that this is a backdoor, post it in an issue or fork the repo. If not, don’t waste our time. - switch
 2328 Lines of code and counting
 
 Non-profit C2 for anyone trying to build from scratch.
