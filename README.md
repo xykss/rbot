@@ -24,7 +24,7 @@ Otherwise… move along.
 
 ## 🚀 Setup
 
-🎥 Setup Video: https://www.youtube.com/xxxxx
+🎥 Setup Video: https://www.youtube.com/watch?v=4-TTwKl1jrs&t=114s
 
 ### 1️⃣ First step — MySQL  
 Don’t have MySQL installed?  
