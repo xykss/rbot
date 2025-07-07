@@ -12,7 +12,7 @@ Otherwise… move along.
 
 ---
 
-✅ 2328+ lines of code and counting  
+✅ 2745+ lines of code and counting  
 💸 Non-profit — for those building from scratch  
 🆓 Free — use it however you want  
 🧠 Don’t whine because someone else got here first  
