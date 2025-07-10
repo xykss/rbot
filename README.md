@@ -18,8 +18,6 @@ Otherwise… move along.
 🧠 Don’t whine because someone else got here first  
 🤡 Why pay for something that’s *free*?
 
-**Don’t be that guy.**
-
 ---
 
 ## 🚀 Setup
