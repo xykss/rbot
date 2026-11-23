@@ -1,7 +1,0 @@
-{
-    "config": {
-        "enabled": false,
-        "port": 1337,
-        "ip": "UR IP HERE"
-    }
-}
