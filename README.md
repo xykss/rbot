@@ -9,6 +9,8 @@ If you *really* believe this is a backdoor, prove it.
 Open an issue, fork the code, or analyze it yourself.  
 Otherwise… move along.  
 — Respectfully, **switch**
+join discord for more info:
+**.gg/FkPNs8c3wv**
 
 ---
 
