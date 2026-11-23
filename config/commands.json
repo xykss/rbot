@@ -1,0 +1,32 @@
+[
+    {
+        "name": "test",
+        "permission": ["admin"],
+        "description": "test command",
+        "assets": "test.tfx"
+    },
+    {
+        "name": "stats",
+        "permission": ["admin", "reseller"],
+        "description": "show statistics",
+        "assets": "stats.tfx"
+    },
+    {
+        "name": "help",
+        "permission": ["user"],
+        "description": "show help",
+        "assets": "help.tfx"
+    },
+    {
+        "name": "info",
+        "permission": ["user"],
+        "description": "user information",
+        "assets": "info.tfx"
+    },
+    {
+        "name": "star",
+        "permission": ["user"],
+        "description": "user information",
+        "assets": "star.tfx"
+    }
+]

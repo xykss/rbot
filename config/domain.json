@@ -1,0 +1,6 @@
+{
+  "domain": "xxxx.com",
+  "port": 2222,
+  "backup_ips": [],
+  "dns_rotation": true
+}
