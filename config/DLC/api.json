@@ -1,0 +1,7 @@
+{
+    "config": {
+        "enabled": true,
+        "port": 1337,
+        "ip": "xxxx"
+    }
+}
